@@ -53,7 +53,18 @@ Because of the symmetry of the tee, when power enters the auxiliary arm and the 
 
 ## Observation
 
-*(Include your own table relevant to the experiment.)*
+Operating Parameters:
+
+Resonant Frequency: 9.45 GHz
+Signal Source: Reflex Klystron (1 kHz Square-Wave Modulated)
+Reference Attenuator Setting (
+A
+1
+): 38.0 dB (Direct connection without H-Plane Tee)
+Table 1: Power Division & Coupling Characteristics (Input at H-Arm, Port 3)
+<img width="1057" height="755" alt="image" src="https://github.com/user-attachments/assets/f266971f-a9f1-496b-8b0e-f89f132f4a3b" />
+<img width="1062" height="347" alt="image" src="https://github.com/user-attachments/assets/5a4e5444-3ed1-41d3-b2a2-c5efac680e02" />
+<img width="1051" height="467" alt="image" src="https://github.com/user-attachments/assets/d360bec4-2731-47c3-b6b9-5422c3aa3975" />
 
 ---
 
